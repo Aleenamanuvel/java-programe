@@ -1,2 +1,2 @@
-# java-programe
-its a simple programe in java using vim editor
+# html-programe
+its a simple html prpograme
